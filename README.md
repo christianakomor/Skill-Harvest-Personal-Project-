@@ -6,7 +6,7 @@
 ## [Tools Used](#tools-used)
 ## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 ## [Exploratory Data Analysis](#exploratory-data-analysis)
-## [Dashborads](#dashboards)
+## [Dashboards](#dashboards)
 
 ### Project Overview
 ---
@@ -41,8 +41,13 @@ The exploratory data analysis process aimed to answer questions such as:
   6. Deaths by states (Region)
   7. Cases based on gender
 
-### Dashborads
+### Dashboards
 ---
 
+![Screenshot (8)](https://github.com/user-attachments/assets/388d7ab3-11c2-41b6-8dff-783153df166f)
+---
 
+![Screenshot (9)](https://github.com/user-attachments/assets/b209ead2-5f22-421b-81cc-f50738330825)
+---
 
+![Screenshot (10)](https://github.com/user-attachments/assets/5f850c25-88de-4921-9538-cd9b67efec8c)
